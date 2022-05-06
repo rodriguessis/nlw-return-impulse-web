@@ -80,7 +80,6 @@ export function FeedbackContentStep( {feedbackType,
 
                     </button>
                 </footer>
-
             </form>
         </>
     )
